@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Mailén 👋
 
-Soy **Arquitecta de Datos** con más de 9 años de experiencia en ingeniería de datos, y actualmente curso la **Licenciatura en Ciencia de Datos** en la Universidad Siglo 21. Estoy en transición hacia roles de **Data Scientist**, aplicando todo lo que aprendí construyendo y manteniendo infraestructura de datos a problemas de análisis predictivo y machine learning.
+Soy **Arquitecta de Datos** con más de 10 años de experiencia en ingeniería de datos, y actualmente curso la **Licenciatura en Ciencia de Datos** en la Universidad Siglo 21. Estoy en transición hacia roles de **Data Scientist**, aplicando todo lo que aprendí construyendo y manteniendo infraestructura de datos a problemas de análisis predictivo y machine learning.
 
 - 🏢 Actualmente trabajo en **Arredo**, donde diseño la arquitectura *medallion* (bronze, silver, gold) de Ventas, Pagos, Movimientos de Caja y Stock en **Microsoft Fabric**.
 - 🎓 Antes pasé por **Compañía de Servicios Farmacéuticos**, **Softtek** e **IBM**, desarrollando procesos ETL y modelos de datos sobre SQL Server, Oracle, MySQL, Teradata y Netezza.
